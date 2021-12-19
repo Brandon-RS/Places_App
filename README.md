@@ -1,6 +1,8 @@
-# places_app
+# Places App UI
 
 A new Flutter project.
+
+![Places](https://user-images.githubusercontent.com/79495707/146681351-b563e7ab-715d-4b5a-a27c-ea3e59f61ed4.png)
 
 ## Getting Started
 
